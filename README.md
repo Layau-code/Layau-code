@@ -1,12 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════
      顶部全宽渐变波浪横幅
 ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:4158D0,100:C850C0&height=200&section=header&text=Layau-code&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Microservices%20%7C%20Agent%20%26%20RAG%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header banner"/>
 
 <div align="center">
 
 <!-- 打字机动效标语 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=C850C0&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there%2C+I'm+Layau+👋;Java+%2F+Python+%2F+Kotlin+%2F+JavaScript+Developer+🚀;Microservices+%26+Distributed+Systems+⚙️;Exploring+Agent+%26+RAG+🤖" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=C850C0&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there%2C+I'm+Layau+;Java+%2F+Python+%2F+Kotlin+%2F+JavaScript+Developer+🚀;Microservices+%26+Distributed+Systems+⚙️;Exploring+Agent+%26+RAG+🤖" alt="Typing SVG"/>
 
 <br/>
 
@@ -37,47 +36,42 @@
 
 ---
 
-## 🛠️ 技术栈 · Tech Stack
+##  技术栈 · Tech Stack
 
 <div align="center">
 
-### 🧠 核心语言 · Core Languages
+###  核心语言 · Core Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,kotlin,js&theme=dark)](https://skillicons.dev)
 
-### 🌐 前端 · Frontend
+### 前端 · Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,vue&theme=dark)](https://skillicons.dev)
 
-### ⚙️ 后端框架与中间件 · Backend & Middleware
+###  后端框架与中间件 · Backend & Middleware
 
 [![My Skills](https://skillicons.dev/icons?i=spring,maven,gradle,nginx,fastapi,kafka,docker&theme=dark)](https://skillicons.dev)
 
-**Spring Boot · MyBatis · Tomcat · Hibernate · OpenFeign**  
-**Nacos · Sentinel · Gateway · Seata · XXL-JOB · Zipkin**  
-**OAuth2 · JWT · RabbitMQ · Kafka · Sanic · Docker Compose**
 
-### 🗄️ 数据库与可观测性 · Databases & Observability
+###  数据库 · Databases 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres,elasticsearch&theme=dark)](https://skillicons.dev)
 
-**InfluxDB · Prometheus**
 
-### 🖥️ 操作系统 · Operating Systems
+### 开发环境
 
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux,android&theme=dark)](https://skillicons.dev)
 
-### 🎨 工具链 · Tooling
+### 工具
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,pycharm,androidstudio,postman,grafana&theme=dark)](https://skillicons.dev)
 
-**Apifox · Navicat · DataGrip · CI/CD**
 
 </div>
 
 ---
 
-## 📊 数据仪表盘 · Stats Dashboard
+## 最近
 
 <div align="center">
 
@@ -132,9 +126,9 @@
 
 > 暂无公开的精选项目，持续学习与实践中。
 
-- 🤖 **Agent / RAG 工程化探索**：学习向量数据库（如 Milvus / Chroma / Qdrant）、检索增强生成（RAG）及工具调用（Function Calling / MCP），尝试将其落地到实际业务场景。
-- ☁️ **微服务与分布式治理**：深入 Spring Cloud 生态（Nacos / Sentinel / Gateway / Seata / Zipkin），研究服务治理与可观测性实践（Prometheus + Grafana）。
-- 📖 **内容输出**：在 CSDN 和掘金持续记录学习心得与技术笔记。
+- **Agent / RAG 工程化探索**：学习向量数据库（如 Milvus / Chroma / Qdrant）、检索增强生成（RAG）及工具调用（Function Calling / MCP），尝试将其落地到实际业务场景。
+- **微服务与分布式治理**：深入 Spring Cloud 生态（Nacos / Sentinel / Gateway / Seata / Zipkin），研究服务治理与可观测性实践（Prometheus + Grafana）。
+- **内容输出**：在 CSDN 和掘金持续记录学习心得与技术笔记。
 
 ---
 
