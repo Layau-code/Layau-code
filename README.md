@@ -79,10 +79,6 @@ values      readable code, practical architecture, steady iteration
 <img height="172" src="https://github-readme-stats.vercel.app/api?username=Layau-code&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=14B8A6&text_color=E5E7EB&cache_seconds=14400" alt="GitHub stats"/>
 <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layau-code&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&cache_seconds=14400" alt="Top languages"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Layau-code&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub trophies"/>
-
 </div>
 
 <details>
@@ -91,9 +87,9 @@ values      readable code, practical architecture, steady iteration
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-3d-contrib/profile-night-green-animate.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-3d-contrib/profile-season-animate.svg"/>
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-3d-contrib/profile-night-green-animate.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-night-green-animate.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-season-animate.svg"/>
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-night-green-animate.svg" width="100%"/>
 </picture>
 
 </div>
