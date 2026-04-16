@@ -81,8 +81,7 @@ values      readable code, practical architecture, steady iteration
 
 </div>
 
-<details>
-<summary><b>3D Contribution Graph</b></summary>
+## 3D Contribution Graph
 
 <div align="center">
 
@@ -93,8 +92,6 @@ values      readable code, practical architecture, steady iteration
 </picture>
 
 </div>
-
-</details>
 
 ## Connect
 
