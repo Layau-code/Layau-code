@@ -33,7 +33,7 @@ values      readable code, practical architecture, steady iteration
 | Project | Stack | What it shows |
 | --- | --- | --- |
 | [LayauMiniSpring](https://github.com/Layau-code/LayauMiniSpring) | Java | 手写 Spring 核心机制，训练 IoC、AOP、Bean 生命周期等框架理解。 |
-| [TinyFlow](https://github.com/Layau-code/TinyFlow) | Vue | 轻量级流程/界面实践，关注交互结构与前端工程组织。 |
+| [TinyFlow](https://github.com/Layau-code/TinyFlow) | Vue | 一个集短链生成、自定义别名、实时统计与数据看板于一体的全栈短链接平台。 |
 | [LimeTime](https://github.com/Layau-code/LimeTime) | Kotlin | 时间管理应用，练习移动端产品思维与 Kotlin 开发。 |
 | [MasteringKotlin](https://github.com/Layau-code/MasteringKotlin) | Kotlin | Kotlin 学习体系化记录，从语言基础到工程实践。 |
 | [blog](https://github.com/Layau-code/blog) | Java | 技术内容与实践记录仓库，用于沉淀学习路线。 |
