@@ -9,6 +9,11 @@ on:
     branches:
       - main
 
+# 防止多个工作流同时推送 output 分支导致冲突（cannot lock ref）
+concurrency:
+  group: snake-output-branch
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
