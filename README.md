@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:14B8A6&height=150&section=header&animation=fadeIn&fontAlignY=36&text=Layau-code&fontSize=44&fontColor=ffffff&desc=Backend%20%7C%20Microservices%20%7C%20AI%20Engineering&descSize=17&descAlignY=60" width="100%" alt="Layau-code banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:14B8A6&height=150&section=header&animation=fadeIn&fontAlignY=36&text=Layau-code&fontSize=44&fontColor=ffffff&desc=%E5%90%8E%E7%AB%AF%20%C2%B7%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%20%C2%B7%20AI%20%E5%B7%A5%E7%A8%8B&descSize=17&descAlignY=60" width="100%" alt="Layau-code banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=48&lines=Building+backend+systems+with+Java+and+Python;Learning+microservices%2C+distributed+systems+and+AI+agents;Turning+notes+into+projects%2C+and+projects+into+craft)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=48&lines=%E7%94%A8+Java+%E5%92%8C+Python+%E6%9E%84%E5%BB%BA%E5%90%8E%E7%AB%AF%E7%B3%BB%E7%BB%9F%3B%E5%AD%A6%E4%B9%A0%E5%BE%AE%E6%9C%8D%E5%8A%A1%E3%80%81%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%8E+AI+Agent%3B%E6%8A%8A%E7%AC%94%E8%AE%B0%E5%8F%98%E6%88%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%8A%8A%E9%A1%B9%E7%9B%AE%E5%8F%98%E6%88%90%E4%BD%9C%E5%93%81)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Layau-code?label=Followers&style=social)](https://github.com/Layau-code)
 ![Profile Views](https://komarev.com/ghpvc/?username=Layau-code&color=2563EB&style=flat-square&label=Profile+Views)
@@ -11,26 +11,26 @@
 
 </div>
 
-## Hi, I'm Layau
+## 你好，我是 Layau
 
 我是一名软件工程在读开发者，主攻 **Java 后端、微服务架构与分布式系统**，也在持续探索 **Agent / RAG 工程化**。我喜欢把学习过程沉淀成可复用项目：从手写框架、时间管理工具，到微服务治理和 AI 应用原型。
 
 ```txt
-focus       Java backend / Spring ecosystem / distributed systems
-learning    Agent engineering / RAG / vector database / observability
-values      readable code, practical architecture, steady iteration
+专注      Java 后端 / Spring 生态 / 分布式系统
+学习中    Agent 工程化 / RAG / 向量数据库 / 可观测性
+信条      可读的代码、务实的架构、持续迭代
 ```
 
-## Current Focus
+## 当前重心
 
-- **Microservices engineering**: Spring Boot, Spring Cloud, Nacos, Sentinel, Gateway, Seata, tracing and service governance.
-- **AI application infrastructure**: RAG workflow, tool calling, MCP, vector retrieval and agent orchestration.
-- **Engineering fundamentals**: small framework implementations, clean API boundaries, testing habits and deployment workflow.
-- **Technical writing**: publishing learning notes on CSDN and Juejin while turning notes into runnable demos.
+- **微服务工程**：Spring Boot、Spring Cloud、Nacos、Sentinel、Gateway、Seata，以及链路追踪与服务治理。
+- **AI 应用基础设施**：RAG 工作流、Tool Calling、MCP、向量检索与 Agent 编排。
+- **工程基本功**：小型框架实现、清晰的 API 边界、测试习惯与部署流程。
+- **技术写作**：在 CSDN 和掘金发布学习笔记，将笔记转化为可运行的示例。
 
-## Featured Work
+## 代表项目
 
-| Project | Stack | What it shows |
+| 项目 | 技术栈 | 亮点 |
 | --- | --- | --- |
 | [LayauMiniSpring](https://github.com/Layau-code/LayauMiniSpring) | Java | 手写 Spring 核心机制，训练 IoC、AOP、Bean 生命周期等框架理解。 |
 | [TinyFlow](https://github.com/Layau-code/TinyFlow) | Vue | 一个集短链生成、自定义别名、实时统计与数据看板于一体的全栈短链接平台。 |
@@ -38,29 +38,29 @@ values      readable code, practical architecture, steady iteration
 | [MasteringKotlin](https://github.com/Layau-code/MasteringKotlin) | Kotlin | Kotlin 学习体系化记录，从语言基础到工程实践。 |
 | [blog](https://github.com/Layau-code/blog) | Java | 技术内容与实践记录仓库，用于沉淀学习路线。 |
 
-## Tech Stack
+## 技术栈
 
 <div align="center">
 
-**Languages**
+**编程语言**
 
 [![Languages](https://skillicons.dev/icons?i=java,py,kotlin,js,html,css&theme=dark)](https://skillicons.dev)
 
-**Backend & Infrastructure**
+**后端与基础设施**
 
 [![Backend](https://skillicons.dev/icons?i=spring,maven,gradle,nginx,fastapi,kafka,docker&theme=dark)](https://skillicons.dev)
 
-**Data & Search**
+**数据与搜索**
 
 [![Data](https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres,elasticsearch&theme=dark)](https://skillicons.dev)
 
-**Tools**
+**工具**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio,postman,grafana,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
-## Contribution Map
+## 贡献地图
 
 <div align="center">
 
@@ -72,7 +72,7 @@ values      readable code, practical architecture, steady iteration
 
 </div>
 
-## GitHub Snapshot
+## 数据面板
 
 <div align="center">
 
@@ -81,7 +81,7 @@ values      readable code, practical architecture, steady iteration
 
 </div>
 
-## 3D Contribution Graph
+## 3D 贡献图
 
 <div align="center">
 
@@ -93,13 +93,13 @@ values      readable code, practical architecture, steady iteration
 
 </div>
 
-## Connect
+## 找到我
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Layau--code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Layau-code)
-[![CSDN](https://img.shields.io/badge/CSDN-技术笔记-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2402_89042144?spm=1000.2115.3001.5343)
-[![Juejin](https://img.shields.io/badge/Juejin-学习输出-007FFF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/1109832819826707)
+[![CSDN](https://img.shields.io/badge/CSDN-%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2402_89042144?spm=1000.2115.3001.5343)
+[![Juejin](https://img.shields.io/badge/Juejin-%E5%AD%A6%E4%B9%A0%E8%BE%93%E5%87%BA-007FFF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/1109832819826707)
 
 </div>
 
@@ -107,6 +107,6 @@ values      readable code, practical architecture, steady iteration
 
 <div align="center">
 
-<sub>Keep learning, keep shipping. Last updated: 2026</sub>
+<sub>持续学习，持续产出。最近更新：2026</sub>
 
 </div>

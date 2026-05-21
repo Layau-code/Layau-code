@@ -2,12 +2,8 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    # 每天 UTC 时间 18:00 自动更新（北京时间次日凌晨 2:00）
     - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -28,11 +24,9 @@ jobs:
           MAX_REPOS: 10
 
       - name: Push 3D Graph to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-          fqdn: ""
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: profile-3d-contrib
+          force_orphan: true
