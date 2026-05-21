@@ -91,9 +91,9 @@ values      readable code, practical architecture, steady iteration
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-3d-contrib/profile-night-green-animate.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-3d-contrib/profile-season-animate.svg"/>
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-3d-contrib/profile-night-green-animate.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-season.svg"/>
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-night-green.svg" width="100%"/>
 </picture>
 
 </div>
