@@ -1,6 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:14B8A6&height=150&section=header&animation=fadeIn&fontAlignY=36&text=Layau-code&fontSize=44&fontColor=ffffff&desc=%E5%90%8E%E7%AB%AF%20%C2%B7%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%20%C2%B7%20AI%20%E5%B7%A5%E7%A8%8B&descSize=17&descAlignY=60" width="100%" alt="Layau-code banner"/>
-
 <div align="center">
+
+```
+███████╗    ██╗      █████╗ ██╗   ██╗ █████╗ ██╗   ██╗
+██╔════╝    ██║     ██╔══██╗╚██╗ ██╔╝██╔══██╗╚██╗ ██╔╝
+█████╗      ██║     ███████║ ╚████╔╝ ███████║ ╚████╔╝
+██╔══╝      ██║     ██╔══██║  ╚██╔╝  ██╔══██║  ╚██╔╝
+███████╗    ███████╗██║  ██║   ██║   ██║  ██║   ██║
+╚══════╝    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=48&lines=%E7%94%A8+Java+%E5%92%8C+Python+%E6%9E%84%E5%BB%BA%E5%90%8E%E7%AB%AF%E7%B3%BB%E7%BB%9F%3B%E5%AD%A6%E4%B9%A0%E5%BE%AE%E6%9C%8D%E5%8A%A1%E3%80%81%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%8E+AI+Agent%3B%E6%8A%8A%E7%AC%94%E8%AE%B0%E5%8F%98%E6%88%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%8A%8A%E9%A1%B9%E7%9B%AE%E5%8F%98%E6%88%90%E4%BD%9C%E5%93%81)](https://git.io/typing-svg)
 
@@ -46,33 +53,22 @@
 
 <div align="center">
 
-**编程语言**
-
-[![Languages](https://skillicons.dev/icons?i=java,py,kotlin,js,html,css&theme=dark)](https://skillicons.dev)
-
-**后端与基础设施**
-
-[![Backend](https://skillicons.dev/icons?i=spring,maven,gradle,nginx,fastapi,kafka,docker&theme=dark)](https://skillicons.dev)
-
-**数据与搜索**
-
-[![Data](https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres,elasticsearch&theme=dark)](https://skillicons.dev)
-
-**工具**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio,postman,grafana,linux&theme=dark)](https://skillicons.dev)
+| 语言 | 熟练度 | 后端与中间件 | 熟练度 |
+|:---|:---|:---|:---|
+| Java | `██████████░░░░` 85% | Spring Boot | `█████████░░░░░` 80% |
+| Python | `████████░░░░░░` 65% | MySQL / Redis | `████████░░░░░░` 70% |
+| Kotlin | `██████░░░░░░░░` 55% | Docker | `███████░░░░░░░` 60% |
+| JavaScript | `█████░░░░░░░░░` 50% | Kafka / ES | `██████░░░░░░░░` 55% |
 
 </div>
 
-## 贡献地图
+## GitHub 活动
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/github-activity-graph.svg" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -85,18 +81,6 @@
 
 </div>
 
-## 3D 贡献图
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-night-green-animate.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-season-animate.svg"/>
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Layau-code/Layau-code/output/profile-night-green-animate.svg" width="100%"/>
-</picture>
-
-</div>
-
 ## 找到我
 
 <div align="center">
@@ -106,8 +90,6 @@
 [![Juejin](https://img.shields.io/badge/Juejin-%E5%AD%A6%E4%B9%A0%E8%BE%93%E5%87%BA-007FFF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/1109832819826707)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:111827&height=105&section=footer&animation=fadeIn" width="100%" alt="footer banner"/>
 
 <div align="center">
 
