@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:14B8A6&height=150&section=header&animation=fadeIn&fontAlignY=36&text=Layau-code&fontSize=44&fontColor=ffffff&desc=Backend%20%7C%20Microservices%20%7C%20AI%20Engineering&descSize=17&descAlignY=60" width="100%" alt="Layau-code banner"/>
+<div align="center">
+
+# Layau-code
+
+</div>
 
 <div align="center">
 
@@ -42,21 +46,27 @@ values      readable code, practical architecture, steady iteration
 
 <div align="center">
 
-**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-[![Languages](https://skillicons.dev/icons?i=java,py,kotlin,js,html,css&theme=dark)](https://skillicons.dev)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-**Backend & Infrastructure**
-
-[![Backend](https://skillicons.dev/icons?i=spring,maven,gradle,nginx,fastapi,kafka,docker&theme=dark)](https://skillicons.dev)
-
-**Data & Search**
-
-[![Data](https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres,elasticsearch&theme=dark)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,androidstudio,postman,grafana,linux&theme=dark)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </div>
 
@@ -76,12 +86,9 @@ values      readable code, practical architecture, steady iteration
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=Layau-code&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=14B8A6&text_color=E5E7EB&cache_seconds=14400" alt="GitHub stats"/>
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layau-code&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&cache_seconds=14400" alt="Top languages"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Layau-code&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub trophies"/>
+[![Followers](https://img.shields.io/github/followers/Layau-code?style=for-the-badge&logo=github&label=Followers&color=2563EB)](https://github.com/Layau-code)
+[![Stars](https://img.shields.io/github/stars/Layau-code?style=for-the-badge&logo=github&label=Stars&color=EAB308)](https://github.com/Layau-code)
+[![Public Repos](https://img.shields.io/github/public-repos/Layau-code?style=for-the-badge&logo=github&label=Repos&color=14B8A6)](https://github.com/Layau-code)
 
 </div>
 
@@ -109,8 +116,6 @@ values      readable code, practical architecture, steady iteration
 [![Juejin](https://img.shields.io/badge/Juejin-学习输出-007FFF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/1109832819826707)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:111827&height=105&section=footer&animation=fadeIn" width="100%" alt="footer banner"/>
 
 <div align="center">
 
